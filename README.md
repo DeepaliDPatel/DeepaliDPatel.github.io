@@ -1,12 +1,8 @@
 # Deepali Patel
 
+###Projects:
 
-Experienced Data Analyst with a Bachelor’s Degree in Computer Science and Post-Graduation focused in Big Data analytics
-ML enthusiast
-
-Some of my Projects:
-
-[1. Statistical classification of human voices](https://github.com/DeepaliDPatel/Statistical-analysis-of-human-Voices)
+## [1. Statistical classification of human voices](https://github.com/DeepaliDPatel/Statistical-analysis-of-human-Voices)
 
 Tools/Algorithms: Python, R, Logistic Regression, Random Forest
 
@@ -17,7 +13,7 @@ Tools/Algorithms: Python, R, Logistic Regression, Random Forest
    - Used AUC score and confusion matrix to measure the performance between both algorithms and derive
      relationships between the features
   
-[2. Quality inspection in manufacturing using deep learning based computer vision]
+##2. Quality inspection in manufacturing using deep learning based computer vision
 
 Tools/Algorithms: Dash Plotly, Python Flask, MongoDB, TensorFlow, Python
 
@@ -25,7 +21,7 @@ Tools/Algorithms: Dash Plotly, Python Flask, MongoDB, TensorFlow, Python
    - Used Tensorflow, Keras and Python to custom build a dataset
    - Performed feature extraction and classification to identity defected items
 
-[3. Net hourly electrical energy output (PE) for Combined Cycle Power Plant]
+##3. Net hourly electrical energy output (PE) for Combined Cycle Power Plant
 
 Tools/Algorithms: Python, R, Linear Regression, Random Forest
 
