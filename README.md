@@ -1,9 +1,11 @@
-Deepali Patel
+# H1 Deepali Patel
+
+
 Experienced Data Analyst with a Bachelor’s Degree in Computer Science and Post-Graduation focused in Big Data analytics
 
 Some of my Projects:
 
-1. Statistical classification of human voices (https://github.com/DeepaliDPatel/Statistical-analysis-of-human-Voices)
+1. [Statistical classification of human voices] (https://github.com/DeepaliDPatel/Statistical-analysis-of-human-Voices)
    - Identify human voices based on acoustic properties of voice and speech in Python and R
    - Pre-processed dataset by acoustic analysis in python and R with an analyzed frequency of 0hz-280hz
    - Used correlation plots and converted data into actionable insights by predicting measures and performing
