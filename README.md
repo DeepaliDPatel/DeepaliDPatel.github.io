@@ -1,5 +1,23 @@
 # Deepali Patel
 
+Experienced Data Analyst with a Bachelor’s Degree in Computer Science and Post-Graduation focused in Big Data analytics
+
+- Experienced at creating data regression models using predictive data modelling and analyzing data mining algorithms to deliver insights and implement action-oriented solutions to complex business problems
+- Strong and proven ability to optimize and improvise projects to reduce risk, improve efficiency and code-reusability
+- Certified Tableau Desktop Specialist
+- Experience working in a competitive and fast-paced data-driven software engineering environment
+- Passionate and focused about solving problems and learning new tools/technologies
+- Ability to communicate effectively and clearly with strong understanding of how to leverage complex data to derive important business decisions
+
+TECHNICAL SUMMARY
+- Languages/tools: Python, R, Scala, Java, Advanced Excel, SQL, MS Access, PHP, C++, JSON
+- Data Science: Strong understanding of Machine Learning algorithms, Data Mining, Modeling and Visualization, Statistical analysis, Deep Learning, Software engineering, NLP, Feature engineering/Predictive Analysis
+- Visualization: Tableau, PowerBI, Seaborn, Plotly, Matplotlib
+- Hadoop Ecosystem: Hadoop, Hive, Pig, Kafka, Scoop, Scala
+- Web Analytics: Google Analytics, Google AdWords 
+
+Apart from the above, on an off day i like to paint and spend time with my plants
+
 ### Projects:
 
 ## 1. Statistical classification of human voices
@@ -12,6 +30,7 @@ Tools/Algorithms: Python, R, Logistic Regression, Random Forest
      Logistic Regression and Random Forest
    - Used AUC score and confusion matrix to measure the performance between both algorithms and derive
      relationships between the features
+
 ## 2. [Kaggle 2020 DataScience & ML Survey data analysis and visualization](https://github.com/DeepaliDPatel/Kaggle2020-DataScience-Survey)
    
    - Performed Exploratory Data analysis on Kaggle's Data Science and ML Survey
