@@ -16,7 +16,7 @@ TECHNICAL SUMMARY
 - Hadoop Ecosystem: Hadoop, Hive, Pig, Kafka, Scoop, Scala
 - Web Analytics: Google Analytics, Google AdWords 
 
-Apart from the above, on an off day i like to paint and spend time with my plants
+Apart from the above, on an off day i like to paint, spend time with my plants and get my hands on any machine learning project
 
 ### Projects:
 
