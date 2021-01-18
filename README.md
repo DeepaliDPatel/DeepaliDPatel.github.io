@@ -30,3 +30,9 @@ Tools/Algorithms: Python, R, Linear Regression, Random Forest
    - Analyzed correlation plots, dependency between each feature and target variable
    - Used Linear Regression and Random forest to compare the performance, resulting in 93% Testing accuracy for Linear
      Regression vs 95% testing accuracy for Random Forest
+     
+## 4. Exploratory Data Analysis on Black Friday Sales data
+
+   -	Perform demographic data analysis on black Friday sales dataset in Python
+   -	Presented Quantitative business driven ideas for black Friday sales that could help boost the sales up by at least 21%
+
