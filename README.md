@@ -2,7 +2,7 @@
 
 ### Projects:
 
-## [1. Statistical classification of human voices](https://github.com/DeepaliDPatel/Statistical-analysis-of-human-Voices)
+## 1. Statistical classification of human voices
 
 Tools/Algorithms: Python, R, Logistic Regression, Random Forest
 
