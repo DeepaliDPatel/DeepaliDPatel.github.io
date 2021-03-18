@@ -1,6 +1,6 @@
 # Deepali Patel
 
-Experienced Data Analyst with a Bachelor’s Degree in Computer Science and Post-Graduation focused in Big Data analytics
+Experienced Research & Strategy Consultant with industry expertise in research, analysis, modelling and visualization.
 
 - Experienced at creating data regression models using predictive data modelling and analyzing data mining algorithms to deliver insights and implement action-oriented solutions to complex business problems
 - Strong and proven ability to optimize and improvise projects to reduce risk, improve efficiency and code-reusability
