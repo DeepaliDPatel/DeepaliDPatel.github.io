@@ -10,10 +10,10 @@ Experienced Research & Strategy Consultant with industry expertise in research, 
 - Ability to communicate effectively and clearly with strong understanding of how to leverage complex data to derive important business decisions
 
 TECHNICAL SUMMARY
-- Languages/tools: Python, R, Scala, Java, Advanced Excel, SQL, MS Access, PHP, C++, JSON
+- Languages/tools: Python, R, Jira, Confluence, Java, SaaS, Advanced Excel, SQL, MS Access
 - Data Science: Strong understanding of Machine Learning algorithms, Data Mining, Modeling and Visualization, Statistical analysis, Deep Learning, Software engineering, NLP, Feature engineering/Predictive Analysis
 - Visualization: Tableau, PowerBI, Seaborn, Plotly, Matplotlib
-- Hadoop Ecosystem: Hadoop, Hive, Pig, Kafka, Scoop, Scala
+- Hadoop Ecosystem: Hive, Pig, Kafka, Scoop, Scala
 - Web Analytics: Google Analytics, Google AdWords 
 
 Apart from the above, on an off day i like to paint, spend time with my plants and get my hands on any machine learning project
