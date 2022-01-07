@@ -1,6 +1,6 @@
 # Deepali Patel
 
-Experienced Research & Strategy Consultant with industry expertise in research, analysis, modelling and visualization.
+Experienced Data Consultant with industry expertise in research, analysis, modelling and visualization.
 
 - Experienced at creating data regression models using predictive data modelling and analyzing data mining algorithms to deliver insights and implement action-oriented solutions to complex business problems
 - Strong and proven ability to optimize and improvise projects to reduce risk, improve efficiency and code-reusability
@@ -10,11 +10,8 @@ Experienced Research & Strategy Consultant with industry expertise in research, 
 - Ability to communicate effectively and clearly with strong understanding of how to leverage complex data to derive important business decisions
 
 TECHNICAL SUMMARY
-- Languages/tools: Python, R, Jira, Confluence, Java, SaaS, Advanced Excel, SQL, MS Access
+- Languages/tools: Python, R, Java, Advanced Excel, SQL, MS Access, Tableau, C#
 - Data Science: Strong understanding of Machine Learning algorithms, Data Mining, Modeling and Visualization, Statistical analysis, Deep Learning, Software engineering, NLP, Feature engineering/Predictive Analysis
-- Visualization: Tableau, PowerBI, Seaborn, Plotly, Matplotlib
-- Hadoop Ecosystem: Hive, Pig, Kafka, Scoop, Scala
-- Web Analytics: Google Analytics, Google AdWords 
 
 Apart from the above, on an off day i like to paint, spend time with my plants and get my hands on any machine learning project
 
