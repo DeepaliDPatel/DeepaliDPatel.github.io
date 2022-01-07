@@ -17,7 +17,7 @@ Apart from the above, on an off day i like to paint, spend time with my plants a
 
 ### Projects:
 
-# Fun little animation:  [Click Here](https://deepalidpatel.github.io/Simulation-/)
+### Fun little animation:  [Click Here](https://deepalidpatel.github.io/Simulation-/)
 
 ## 1. Statistical classification of human voices
 
